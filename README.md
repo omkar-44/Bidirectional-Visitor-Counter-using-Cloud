@@ -1,2 +1,2 @@
 # Bidirectional-Visitor-Counter-using-Cloud
-!(output/1.png)
+![Circuit](output/1.png)
